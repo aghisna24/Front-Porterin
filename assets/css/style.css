@@ -1,0 +1,23 @@
+.nav-link {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+  }
+
+.btn-main{
+    background: #011E3F;
+    border-radius: 15px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.img-toggler{
+    width: 50px;
+}
